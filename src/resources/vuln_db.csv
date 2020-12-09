@@ -1,0 +1,42 @@
+CWE-ID                                           ,Name
+CWE-22 - A5 (Broken Access Control)              ,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')
+CWE-77 - A1 (Injection)                          ,Improper Neutralization of Special Elements used in a Command ('Command Injection')
+CWE-78 - A1 (Injection)                          ,Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')
+CWE-79 - A7 (Cross-Site Scripting XSS)           ,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')
+CWE-88 - A1 (Injection)                          ,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection')
+CWE-89 - A1 (Injection)                          ,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')
+CWE-90 - A1 (Injection)                          ,Improper Neutralization of Special Elements used in an LDAP Query ('LDAP Injection')
+CWE-91 - A1 (Injection)                          ,XML Injection (aka Blind XPath Injection)
+CWE-209 - A6 (Security Misconfiguration)         ,Information Exposure Through an Error Message
+CWE-220 - A3 (Sensitive Data Exposure)           ,Sensitive Data Under FTP Root
+CWE-223 - A10 (Insufficient Logging & Monitoring),Omission of Security-relevant Information
+CWE-256 - A2 (Broken Authentication)             ,Unprotected Storage of Credentials
+CWE-284 - A5 (Broken Access Control)             ,Improper Access Control
+CWE-285 - A5 (Broken Access Control)             ,Improper Authorization
+CWE-287 - A2 (Broken Authentication)             ,Improper Authentication
+CWE-295 - A3 (Sensitive Data Exposure)           ,Improper Certificate Validation
+CWE-308 - A2 (Broken Authentication)             ,Use of Single-factor Authentication
+CWE-311 - A3 (Sensitive Data Exposure)           ,Missing Encryption of Sensitive Data
+CWE-312 - A3 (Sensitive Data Exposure)           ,Cleartext Storage of Sensitive Information
+CWE-319 - A3 (Sensitive Data Exposure)           ,Cleartext Transmission of Sensitive Information
+CWE-325 - A3 (Sensitive Data Exposure)           ,Missing Required Cryptographic Step
+CWE-326 - A3 (Sensitive Data Exposure)           ,Inadequate Encryption Strength
+CWE-327 - A3 (Sensitive Data Exposure)           ,Use of a Broken or Risky Cryptographic Algorithm
+CWE-328 - A3 (Sensitive Data Exposure)           ,Reversible One-Way Hash
+CWE-359 - A3 (Sensitive Data Exposure)           ,Exposure of Private Information ('Privacy Violation')
+CWE-384 - A2 (Broken Authentication)             ,Session Fixation
+CWE-425 - A5 (Broken Access Control)             ,Direct Request ('Forced Browsing')
+CWE-502 - A8 (Insecure Deserialization)          ,Deserialization of Untrusted Data
+CWE-522 - A2 (Broken Authentication)             ,Insufficiently Protected Credentials
+CWE-523 - A2 (Broken Authentication)             ,Unprotected Transport of Credentials
+CWE-548 - A6 (Security Misconfiguration)         ,Information Exposure Through Directory Listing
+CWE-564 - A1 (Injection)                         ,SQL Injection: Hibernate
+CWE-611 - A4 (XML External Entities XXE)         ,Improper Restriction of XML External Entity Reference
+CWE-613 - A2 (Broken Authentication)             ,Insufficient Session Expiration
+CWE-620 - A2 (Broken Authentication)             ,Unverified Password Change
+CWE-639 - A5 (Broken Access Control)             ,Authorization Bypass Through User-Controlled Key
+CWE-640 - A2 (Broken Authentication)             ,Weak Password Recovery Mechanism for Forgotten Password
+CWE-776 - A4 (XML External Entities XXE)         ,Improper Restriction of Recursive Entity References in DTDs ('XML Entity Expansion')
+CWE-778 - A10 (Insufficient Logging & Monitoring),Insufficient Logging
+CWE-917 - A1 (Injection)                         ,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection')
+CWE-943 - A1 (Injection)                         ,Improper Neutralization of Special Elements in Data Query Logic
