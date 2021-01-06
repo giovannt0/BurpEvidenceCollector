@@ -63,15 +63,15 @@ public class Utils {
     public static final String A10 = "A10 - Insufficient Logging and Monitoring";
 
     // Icons for the buttons in the UI
-    public static final String VULN_DB_CSV = "/resources/vuln_db.csv";
-    public static final String PANEL_DEFAULT = "/resources/panel_defaults.png";
-    public static final String PANEL_MINUS = "/resources/panel_minus.png";
-    public static final String PANEL_PLUS = "/resources/panel_plus.png";
-    public static final String LOAD = "/resources/load.png";
-    public static final String SAVE = "/resources/save.png";
-    public static final String NEW = "/resources/new.png";
-    public static final String PREV = "/resources/prev.png";
-    public static final String NEXT = "/resources/next.png";
+    public static final String VULN_DB_CSV = "/vuln_db.csv";
+    public static final String PANEL_DEFAULT = "/panel_defaults.png";
+    public static final String PANEL_MINUS = "/panel_minus.png";
+    public static final String PANEL_PLUS = "/panel_plus.png";
+    public static final String LOAD = "/load.png";
+    public static final String SAVE = "/save.png";
+    public static final String NEW = "/new.png";
+    public static final String PREV = "/prev.png";
+    public static final String NEXT = "/next.png";
 
     // String separator for the CWEs and their descriptions
     public static final String SEPARATOR = "###";

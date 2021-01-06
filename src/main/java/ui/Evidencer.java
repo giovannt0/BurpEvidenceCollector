@@ -440,7 +440,7 @@ public class Evidencer implements Runnable, ITab {
     // httpRequestResponses filter update
     private void evidenceFilterUpdate() {
         final ArrayList<RowFilter<EvidencerTableModel, Number>> mergedFilter = new ArrayList<>();
-        RowFilter<EvidencerTableModel, Number> manualFilter = new RowFilter<>() {
+        RowFilter<EvidencerTableModel, Number> manualFilter = new RowFilter<EvidencerTableModel, Number>() {
             @Override
             public boolean include(Entry<? extends EvidencerTableModel, ? extends Number> entry) {
                 HttpRequestResponse requestResponse;
