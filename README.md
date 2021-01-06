@@ -9,6 +9,12 @@ It comes with a loaded CWE database for easy evidence sorting, evidence highligh
 
 <img width="1140" alt="Screenshot 2020-12-09 at 16 30 47" src="https://user-images.githubusercontent.com/25910997/101649837-9a3b6f80-3a3b-11eb-88be-50df9ef416f1.png">
 
+## Building from source
+
+`gradle build fatJar`
+
+The jar will be in `build/libs/BurpEvidenceCollector-all.jar`
+
 ## Disclaimer
 
 The project is currently not maintained. Should you find anything weird, feel free to send a PR!
